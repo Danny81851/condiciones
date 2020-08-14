@@ -1,0 +1,2 @@
+# condiciones
+información
